@@ -27,4 +27,4 @@ Follow the following steps to contribute:
 * Make only one commit per PR.
 * Make sure that the commit message is not too long and is in present tense.
 * Solve one issue at a time do not take up many issues.
-* Be active on the PR discussions, or lese your PR might get closed due to inactivity.
+* Be active on the PR discussions, or else your PR might be closed due to inactivity.
